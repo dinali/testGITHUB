@@ -10,5 +10,6 @@
 
 @interface ERSViewController : UIViewController
 @property (weak, nonatomic) IBOutlet UILabel *testLabel;
+// this is a really important comment!
 
 @end
